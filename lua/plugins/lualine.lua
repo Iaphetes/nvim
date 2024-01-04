@@ -4,7 +4,6 @@ return {
         require('lualine').setup {
             options = {
                 icons_enabled = true,
-                theme = "bamboo",
             },
             sections = {
                 lualine_a = {
